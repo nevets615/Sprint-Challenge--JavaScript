@@ -7,6 +7,10 @@
   * In the body of the function return the callback with the two parameters that you created
 */
 
+function consume(par1, par2, callback){
+
+  
+}
 
 /* Step 2: Create several functions to callback with consume();
   * Create a function named add that returns the sum of two numbers
